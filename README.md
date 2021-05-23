@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @odedindi
+- 👋 Hi, I’m Oded
 - 👀 I’m interested in many things.. first of all diving. after that i love breaking things down to small pieces and build them back again :)
 - 🌱 Promising young full-stacker.
 - 💞️ Looking to collaborate on different kinds of software and web development both front and back ends.
